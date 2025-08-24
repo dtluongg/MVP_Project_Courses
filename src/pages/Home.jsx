@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 
 const Home = () => {
   return (
-    <div className="relative h-[80vh] flex items-center justify-center text-center overflow-hidden">
+    <div className="relative h-screen flex items-center justify-center text-center overflow-hidden">
       {/* Background banner */}
       <img
         src="https://images.unsplash.com/photo-1523240795612-9a054b0db644"
