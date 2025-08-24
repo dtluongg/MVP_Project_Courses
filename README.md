@@ -1,12 +1,19 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Here is my quick exercise to answer your company's interview question. 
 
-Currently, two official plugins are available:
+To run, you need to clone, "npm install" and "npm run dev"
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Preview:
+Trang chủ:
+<img width="1589" height="893" alt="image" src="https://github.com/user-attachments/assets/0782f56b-c8b6-4faa-b315-8e9d1317f501" />
 
-## Expanding the ESLint configuration
+Trang giáo viên:
+<img width="1594" height="857" alt="image" src="https://github.com/user-attachments/assets/025813f1-fce8-48f0-8cef-bd6b7876e140" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Trang khoá học: 
+<img width="1589" height="854" alt="image" src="https://github.com/user-attachments/assets/176428d2-d9a6-4012-bae9-223848a0e72b" />
+
+Trang đặt lịch: 
+<img width="1592" height="660" alt="image" src="https://github.com/user-attachments/assets/d6a70d3e-b55f-4209-9fab-9dbfb3876975" />
+
